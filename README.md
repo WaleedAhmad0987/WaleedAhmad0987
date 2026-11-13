@@ -14,13 +14,6 @@ I lead product QA for chat, email and voice AI agents at [LightWork AI](https://
 - **Voice agents.** Real calls, transcripts and what landed in the CRM afterwards.
 - **Quality systems from zero.** Risk map, framework, CI gates, production triage and fix verification.
 
-#### Featured
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [test-manager](https://github.com/WaleedAhmad0987/test-manager) | A test case and test run manager | TypeScript |
-| [Sauce-Demo-POM-Playwright](https://github.com/WaleedAhmad0987/Sauce-Demo-POM-Playwright) | A Page Object Model suite for Sauce Demo | Playwright, C# |
-
 #### Toolbox
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
